@@ -5,10 +5,10 @@
   "signature": "unsigned-dev",
   "whitelist": [
     "FlyMC8400",
-    "SANANIST666"
+    "SAN666"
   ],
   "banlist": [
-    "SATANIS6"
+    "SANANIST666"
   ],
   "settings": {
     "poll_seconds": 15,
