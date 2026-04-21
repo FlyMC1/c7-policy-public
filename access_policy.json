@@ -1,6 +1,6 @@
 {
-  "revision": 5,
-  "updated_at": "2026-04-21T11:59:00Z",
+  "revision": 6,
+  "updated_at": "2026-04-22T12:01:00Z",
   "mode": "normal",
   "signature": "unsigned-dev",
   "whitelist": [
@@ -8,7 +8,7 @@
     "SAN666"
   ],
   "banlist": [
-    "SANANIST666"
+    "SANA666"
   ],
   "settings": {
     "poll_seconds": 15,
