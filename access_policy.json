@@ -1,0 +1,17 @@
+{
+  "revision": 2,
+  "updated_at": "2026-04-21T10:52:00Z",
+  "mode": "normal",
+  "signature": "unsigned-dev",
+  "whitelist": [
+    "FlyMC8400",
+    "SANANIST666"
+  ],
+  "banlist": [
+    "SATANIS6"
+  ],
+  "settings": {
+    "poll_seconds": 15,
+    "poll_jitter_seconds": 3
+  }
+}
