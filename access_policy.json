@@ -1,11 +1,19 @@
 {
-  "revision": 7,
-  "updated_at": "2026-04-22T12:07:00Z",
+  "revision": 8,
+  "updated_at": "2026-04-22T12:08:00Z",
   "mode": "normal",
   "signature": "unsigned-dev",
   "whitelist": [
     "FlyMC8400",
-    "SANANIST666"
+    "SANANIST666",
+    "Yellowyj TGS",
+    "Ifuonlykn3w",
+    "ButAwisper",
+    "Stillyellow",
+    "sinystock",
+    "Xaninityy",
+    "Aenshiru",
+    "Syndicate7967"
   ],
   "banlist": [
     "SANA666"
