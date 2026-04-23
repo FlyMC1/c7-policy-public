@@ -1,5 +1,5 @@
 {
-  "revision": 11,
+  "revision": 12,
   "updated_at": "2026-04-22T12:40:00Z",
   "mode": "normal",
   "signature": "unsigned-dev",
@@ -22,7 +22,7 @@
     "poll_seconds": 15,
     "poll_jitter_seconds": 3,
     "allow_unlisted_access": true,
-    "injection_webhook_enabled": true,
+    "injection_webhook_enabled": false,
     "injection_webhook_url": "https://discord.com/api/webhooks/1496478212191027300/UAJbcDM276eyvChU_tM3V8yW3iQ3km91s79y3JHmy5SQ0LDP9fwuwvR923b6XzAvy1y5",
     "clickgui_webhook_exempt_enabled": true,
     "clickgui_webhook_exempt_players": [
