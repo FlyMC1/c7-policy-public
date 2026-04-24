@@ -1,6 +1,6 @@
 {
-  "revision": 2,
-  "updated_at": "2026-04-21T10:52:00Z",
+  "revision": 3,
+  "updated_at": "2026-04-24T12:13:48Z",
   "mode": "normal",
   "signature": "unsigned-dev",
   "whitelist": [
@@ -21,10 +21,17 @@
   "settings": {
     "poll_seconds": 15,
     "poll_jitter_seconds": 3,
-    "allow_unlisted_access": true,
+    "allow_unlisted_access": false,
     "injection_webhook_enabled": true,
     "injection_webhook_url": "https://discord.com/api/webhooks/1496478212191027300/UAJbcDM276eyvChU_tM3V8yW3iQ3km91s79y3JHmy5SQ0LDP9fwuwvR923b6XzAvy1y5",
-    "clickgui_webhook_exempt_enabled": false,
-    "clickgui_webhook_exempt_players": []
+    "clickgui_webhook_exempt_enabled": true,
+    "clickgui_webhook_exempt_players": [
+      "WiryChunk#4987",
+      "SANANIST666",
+      "KingWaxx#8323",
+      "SidedMaple#7683",
+      "Greatape#4429",
+      "BoogieMan#1023"
+    ]
   }
 }
