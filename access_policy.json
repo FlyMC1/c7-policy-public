@@ -44,6 +44,17 @@
       "Aenshiru",
       "Syndicate7967"
     ],
+    "tiers": {
+      "normal": {
+        "whitelisted": false
+      },
+      "whitelist": {
+        "whitelisted": false
+      },
+      "vip": {
+        "whitelisted": true
+      }
+    },
     "module_access": {
       "normal": {
         "BowSpam": true,
@@ -119,6 +130,7 @@
         "PacketMine": true,
         "HotbarSorter": true,
         "FastUse": true,
+        "SmithingSpam": false,
         "NoSwing": true,
         "Offhand": true,
         "AirPlace": true,
@@ -229,6 +241,7 @@
         "PacketMine": true,
         "HotbarSorter": true,
         "FastUse": true,
+        "SmithingSpam": false,
         "NoSwing": true,
         "Offhand": true,
         "AirPlace": true,
@@ -339,6 +352,7 @@
         "PacketMine": true,
         "HotbarSorter": true,
         "FastUse": true,
+        "SmithingSpam": true,
         "NoSwing": true,
         "Offhand": true,
         "AirPlace": true,
